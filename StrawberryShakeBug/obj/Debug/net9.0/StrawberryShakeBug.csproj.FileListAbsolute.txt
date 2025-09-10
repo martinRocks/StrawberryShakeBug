@@ -3,3 +3,4 @@ C:\Users\martin.mikhail\Documents\Play\StrawberryShakeBug\StrawberryShakeBug\obj
 C:\Users\martin.mikhail\Documents\Play\StrawberryShakeBug\StrawberryShakeBug\obj\Debug\net9.0\StrawberryShakeBug.AssemblyInfoInputs.cache
 C:\Users\martin.mikhail\Documents\Play\StrawberryShakeBug\StrawberryShakeBug\obj\Debug\net9.0\StrawberryShakeBug.AssemblyInfo.cs
 C:\Users\martin.mikhail\Documents\Play\StrawberryShakeBug\StrawberryShakeBug\obj\Debug\net9.0\StrawberryShakeBug.csproj.CoreCompileInputs.cache
+C:\Users\martin.mikhail\Documents\Play\StrawberryShakeBug\StrawberryShakeBug\obj\Debug\net9.0\StrawberryShakeBug.sourcelink.json

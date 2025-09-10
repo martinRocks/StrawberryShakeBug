@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StrawberryShakeBug")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1753b4fdc5b9739726f3c77a0af0a8f412a64650")]
 [assembly: System.Reflection.AssemblyProductAttribute("StrawberryShakeBug")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StrawberryShakeBug")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
